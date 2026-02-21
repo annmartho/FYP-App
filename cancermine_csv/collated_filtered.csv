@@ -1,0 +1,21 @@
+,matching_id,role,cancer_id,cancer_normalized,gene_hugo_id,gene_entrez_id,gene_normalized,citation_count
+134,9eb6448e78c96c6cb8d5790569211d1a,Driver,DOID:3910,lung adenocarcinoma,HGNC:11998,7157,TP53,57
+139,8e390ed2997c32b925dba06cfbfc21cf,Tumor_Suppressor,DOID:3908,lung non-small cell carcinoma,HGNC:11998,7157,TP53,54
+294,920bee1be548a1382fbb721b2fc47b4a,Oncogene,DOID:3908,lung non-small cell carcinoma,HGNC:11998,7157,TP53,29
+311,04dfa692c4072abbf6fcb9516f58ed16,Tumor_Suppressor,DOID:3910,lung adenocarcinoma,HGNC:11998,7157,TP53,27
+421,67be1f611ae3e80440a8fbd853cb83ae,Driver,DOID:3908,lung non-small cell carcinoma,HGNC:11998,7157,TP53,21
+2960,b1dbfeb2a92ae52f1ba0e486ee199f80,Oncogene,DOID:3908,lung non-small cell carcinoma,HGNC:14881,9839,ZEB2,4
+2965,fab4a772f19b80537baf04062446f9e1,Oncogene,DOID:3908,lung non-small cell carcinoma,HGNC:11201,6660,SOX5,4
+3655,ac35cd158e474c04f7900989628ba82b,Tumor_Suppressor,DOID:3908,lung non-small cell carcinoma,HGNC:11603,9496,TBX4,3
+4411,dc907d26606cf66d8aa3afab2ca7924a,Oncogene,DOID:3910,lung adenocarcinoma,HGNC:11998,7157,TP53,3
+5976,6f8dc34b264b12e59a305b4c075dbfa1,Tumor_Suppressor,DOID:3908,lung non-small cell carcinoma,HGNC:21449,80760,ITIH5,2
+13306,5d4b9a9a336ae2d27021d4edb071894e,Tumor_Suppressor,DOID:3910,lung adenocarcinoma,HGNC:27023,131873,COL6A6,1
+13335,adcea0f8ce5b3e86fcb05bdf2e7e9715,Tumor_Suppressor,DOID:3910,lung adenocarcinoma,HGNC:18486,23037,PDZD2,1
+13343,ec5542916e891bcd66b475e18a5c7949,Tumor_Suppressor,DOID:3910,lung adenocarcinoma,HGNC:16709,10203,CALCRL,1
+13345,96f1c50fd52eefaaa7a38ac23b7a0d0a,Tumor_Suppressor,DOID:3910,lung adenocarcinoma,HGNC:16028,90865,IL33,1
+13366,e2c2f7f34016cdc77d57c18e14baa6cd,Tumor_Suppressor,DOID:3910,lung adenocarcinoma,HGNC:11603,9496,TBX4,1
+13475,ced6d4b903a11ab0f6dbc7bfe466038a,Tumor_Suppressor,DOID:3908,lung non-small cell carcinoma,HGNC:3522,2070,EYA4,1
+13520,1faa2386c020f2dfa8ee6c17a7c7ff90,Tumor_Suppressor,DOID:3908,lung non-small cell carcinoma,HGNC:27023,131873,COL6A6,1
+13634,049dada8bbfbcfb74c039557665c712a,Tumor_Suppressor,DOID:3908,lung non-small cell carcinoma,HGNC:11604,6910,TBX5,1
+23211,9d6788ccde63b9257c60b24bdc3fd551,Oncogene,DOID:3910,lung adenocarcinoma,HGNC:6323,3798,KIF5A,1
+23348,1079316e3f0a343a5cd8dc954e5e3a4d,Oncogene,DOID:3910,lung adenocarcinoma,HGNC:2210,1290,COL5A2,1

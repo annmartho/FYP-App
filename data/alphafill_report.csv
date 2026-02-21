@@ -1,0 +1,24 @@
+,Gene,UniProt,Best_Ligand,Template_PDB,Identity,RMSD,Clash_Count
+0,MTMR7,Q9Y216,Pocket Found (PIB),1ZSQ,38.7%,3.03 Å,164
+1,ADAMTS16,Q8TE57,Pocket Found (ZN),6QIG,32.1%,27.83 Å,1
+2,CIT,O14578,Pocket Found (M77),3TKU,42.4%,3.43 Å,20
+3,LTBP4,Q8N2S1,Pocket Found (CA),6POG,35.4%,9.03 Å,1
+4,MMRN1,Q13201,Pocket Found (CA),4OUL,30.5%,2.70 Å,7
+5,PAX9,P55771,Pocket Found (ZN),4D7V,27.9%,41.25 Å,0
+6,SOX5,P35711,No Structure,N/A,N/A,N/A,N/A
+7,STXBP6,Q8NFX7,No Structure,N/A,N/A,N/A,N/A
+8,PDZD2,O15018,No Structure,N/A,N/A,N/A,N/A
+9,ITIH5,Q86UX2,Pocket Found (MG),6FPY,31.6%,9.93 Å,1
+10,VWA3B,Q502W6,No Structure,N/A,N/A,N/A,N/A
+11,DENND2A,Q9ULE3,No Structure,N/A,N/A,N/A,N/A
+12,ATP10B,O94823,Pocket Found (MG),6LKN,33.5%,7.60 Å,1
+13,MEOX2,P50222,No Structure,N/A,N/A,N/A,N/A
+14,RGS22,Q8NE09,No Structure,N/A,N/A,N/A,N/A
+15,STXBP5L,Q9Y2K9,Pocket Found (MGT),5H3T,28.2%,6.93 Å,50
+16,GDF10,P55107,Pocket Found (NO3),4UI1,45.6%,1.54 Å,20
+17,C1orf162,Q8NEQ5,No Structure,N/A,N/A,N/A,N/A
+18,PLCL1,Q15111,Pocket Found (CA),1DJI,36.9%,2.37 Å,3
+19,SYNPO2,Q9UMS6,Pocket Found (CA),7QQL,26.4%,11.43 Å,1
+20,RP1,Q15555,Pocket Found (MOO),2R8U,72.2%,1.31 Å,2
+21,CLEC14A,Q86T13,No Structure,N/A,N/A,N/A,N/A
+22,TBX4,P57082,Pocket Found (MG),2X6U,90.0%,0.76 Å,0

@@ -1,0 +1,12 @@
+,Gene,PDB_ID,Druggability_Evidence,Known_Ligands,Binding_Affinity
+0,KIF5A,4UXT,Very High (Proven Binder),"TAXOL, ZINC ION, MAGNESIUM ION",520.0 nM (EC50)
+1,ZEB2,2DA7,Low Confidence,None,No Data
+2,PGM5,7U21,Low Confidence,None,No Data
+3,TBX5,2X6U,High (Co-crystallized Ligand),"2-{2-[2-(2-{2-[2-(2-ETHOXY-ETHOXY)-ETHOXY]-ETHOXY}-ETHOXY)-ETHOXY]-ETHOXY}-ETHANOL, MAGNESIUM ION",No Data
+4,MYBPC1,2YXM,Low Confidence,None,No Data
+5,TRIM58,8PD6,High (Co-crystallized Ligand),"MAGNESIUM ION, ~{N}2-[3-(dimethylamino)propyl]-6-phenyl-~{N}4-(piperidin-4-ylmethyl)quinazoline-2,4-diamine",No Data
+6,CASS4,2CRE,Low Confidence,None,No Data
+7,TBX3,1H6F,High (Co-crystallized Ligand),MAGNESIUM ION,No Data
+8,MYH11,9FU2,High (Co-crystallized Ligand),"ADENOSINE-5'-DIPHOSPHATE, VANADATE ION, DIMETHYL SULFOXIDE",No Data
+9,CNGB3,7RHS,High (Co-crystallized Ligand),2-acetamido-2-deoxy-beta-D-glucopyranose,No Data
+10,SALL3,7Y3L,High (Co-crystallized Ligand),ZINC ION,No Data

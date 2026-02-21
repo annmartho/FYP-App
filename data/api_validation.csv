@@ -1,0 +1,35 @@
+Gene,Priority,Target_Class,Druggability,Interacts_With,Papers
+MTMR7,Medium,Unclassified,High (Antibody),None,20
+KIF5A,High,Other cytosolic protein,High (SM & Antibody),"TUBB4A, TUBB6, TUBB3, TUBB2A, TUBB2B, KIF5B",95
+ADAMTS16,Medium,Unclassified,High (Antibody),None,44
+CIT,High,Kinase,High (Small Molecule),"TOP2A, BRCA1, RRM1",1659
+LTBP4,Medium,Unclassified,High (Antibody),None,113
+MMRN1,Medium,Unclassified,High (Antibody),None,91
+PAX9,Low,Unclassified,Low,None,135
+ZEB2,High,Unclassified,High (Antibody),"NOTCH1, CDKN2A, SRC, EGFR, DICER1, EP300, TERT, CTNNB1, KRAS, ERBB2, PTEN, TP53, HGF, RET, MET",3728
+PGM5,Medium,Unclassified,High (Antibody),None,165
+SOX5,Medium,Unclassified,Low,"CTNNB1, EP300",364
+STXBP6,Medium,Unclassified,High (Antibody),None,61
+TBX5,Medium,Transcription factor,Low,"PDGFRA, SMARCA4, CTNNB1, KDR, KDM6A",327
+PDZD2,Medium,Unclassified,High (Antibody),None,64
+MYBPC1,Low,Unclassified,Low,None,38
+TRIM58,Medium,Enzyme,High (Small Molecule),None,106
+ITIH5,Low,Unclassified,Low,None,103
+VWA3B,Low,Unclassified,Low,None,13
+CASS4,Medium,Unclassified,High (Antibody),None,47
+DENND2A,Low,Unclassified,Low,None,23
+TBX3,High,Unclassified,High (Small Molecule),"CTNNB1, CDKN2A, TP53",371
+MYH11,High,Unclassified,High (Antibody),"PDGFRA, NOTCH1, SRC, EGFR, RARA, RUNX1T1, PDGFRB, NPM1, KDR",597
+ATP10B,Medium,Unclassified,High (Antibody),None,31
+MEOX2,Low,Unclassified,Low,None,137
+RGS22,Low,Unclassified,Low,None,28
+STXBP5L,Medium,Unclassified,High (Antibody),None,24
+CNGB3,Medium,Unclassified,High (SM & Antibody),None,27
+GDF10,Medium,Unclassified,High (Antibody),None,124
+C1orf162,Medium,Unclassified,High (Antibody),None,22
+SALL3,Low,Unclassified,Low,None,71
+PLCL1,Low,Unclassified,Low,None,39
+SYNPO2,Medium,Unclassified,Low,BRCA1,83
+RP1,Medium,Unclassified protein,Low,POT1,611
+CLEC14A,High,Unclassified,High (Antibody),"FLT4, KDR",73
+TBX4,Low,Unclassified,Low,None,140
