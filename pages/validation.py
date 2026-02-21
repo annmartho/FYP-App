@@ -128,7 +128,7 @@ def load_validation_data():
 @st.cache_data
 def load_expression_data():
     """Load and cache expression data once"""
-    expr_df = pd.read_csv("survival_analysis_csv\M1_counts_raw.csv", low_memory=False)
+    expr_df = pd.read_csv("survival_analysis_csv/M1_counts_raw.csv", low_memory=False)
     expr_df = expr_df.rename(columns={expr_df.columns[0]: "Gene"}).set_index("Gene")
     return expr_df
 
