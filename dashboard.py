@@ -175,7 +175,11 @@ def load_data():
             "Predicted": ["Druggable", "Non-Druggable", "Non-Druggable", "Druggable", "Druggable"],
             "Ground_Truth": ["Druggable", "Non-Druggable", "Non-Druggable", "Druggable", "Druggable"]
         })
-
+    
+@st.cache_data
+def load_final_rank_data():
+    return pd.read_csv("data/final_ranking.csv")
+   
 @st.cache_data
 def load_feature_vector_data():
     """Load feature vector data for all genes"""
@@ -183,6 +187,8 @@ def load_feature_vector_data():
     return feature_df
 
 df = load_data()
+
+final_rank_df= load_final_rank_data()
 
 # -------------------------------------------------
 # MAIN DASHBOARD TOP 
@@ -340,3 +346,7 @@ st.markdown("<hr>", unsafe_allow_html=True)
 # Full Table display
 if st.checkbox("Show Full QNN Ranking Table"):
     st.dataframe(df, use_container_width=True)
+
+if st.checkbox("Show Final Ranking Table"):
+    cleaned_df = final_rank_df.drop(columns=["Unnamed: 0","Rank"])
+    st.dataframe(cleaned_df, use_container_width=True)
